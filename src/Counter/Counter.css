@@ -1,0 +1,14 @@
+.displayCounter {
+    width: 200px;
+    height: 200px;
+    border: solid 1px red;
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+.buttonContainer {
+    margin-top: 20px;
+}
